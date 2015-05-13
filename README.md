@@ -1,7 +1,7 @@
 ## NewBeyondViewPager
 This is an amazing ViewPager effect which we call it NewBeyondViewPager,Please join us and help us make it better,so enjoy yourself!
 
-![demo](https://github.com/Open-Werewolf/NewBeyondViewPager/art/clubs.gif)
+![demo](./art/clubs.gif)
 
 
 ## LICENSE
