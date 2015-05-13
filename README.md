@@ -5,6 +5,7 @@ This is an amazing ViewPager effect which we call it NewBeyondViewPager,Please j
 
 This picture is from https://dribbble.com/shots/1968535-Clubs
 Our idea is based on that excellent design from Barthelemy Chalvet
+ceshi nengbuneng tijiao
 
 ## LICENSE
 	Copyright 2011-2016 Werewolf NewBeyondViewPager
